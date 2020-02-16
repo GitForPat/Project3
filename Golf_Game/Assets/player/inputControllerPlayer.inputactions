@@ -1,0 +1,33 @@
+{
+    "name": "inputControllerPlayer",
+    "maps": [
+        {
+            "name": "playerControls",
+            "id": "d7338d1d-8ffc-4261-855d-d7c0257ce254",
+            "actions": [
+                {
+                    "name": "move",
+                    "type": "Button",
+                    "id": "5885076a-2a79-40f8-b53f-2bade9ad6eee",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e793e8b9-f9b3-47d9-aca0-5db8784664f5",
+                    "path": "<Gamepad>/rightStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
